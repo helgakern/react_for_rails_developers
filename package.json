@@ -2,19 +2,19 @@
   "name": "react_for_rails_developers",
   "private": true,
   "dependencies": {
-    "@babel/preset-react": "^7.9.4",
-    "@rails/actioncable": "^6.0.0",
-    "@rails/activestorage": "^6.0.0",
-    "@rails/ujs": "^6.0.0",
+    "@babel/preset-react": "^7.13.13",
+    "@rails/actioncable": "^6.1.3",
+    "@rails/activestorage": "^6.1.3",
+    "@rails/ujs": "^6.1.3",
     "@rails/webpacker": "^5.2.1",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^4.6.0",
     "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "version": "0.1.0",
   "devDependencies": {
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^3.11.2"
   }
 }
