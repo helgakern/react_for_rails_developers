@@ -9,7 +9,7 @@
     "@rails/webpacker": "^5.4.3",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "bootstrap": "^4.6.0",
-    "is-svg": "^4.3.0",
+    "is-svg": "^4.4.0",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
